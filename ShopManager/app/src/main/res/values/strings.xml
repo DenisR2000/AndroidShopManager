@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShopManager</string>
+
+    <string name="item_mane">Товар</string>
+    <string name="item_prise">0</string>
+    <string name="add_caption">+</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359263116422",
+    "project_id": "shopmanager-20cd6",
+    "storage_bucket": "shopmanager-20cd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359263116422:android:f78419b4ca5666ff29c507",
+        "android_client_info": {
+          "package_name": "com.example.shopmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359263116422-ad2kggmc00fr92bb4k7fc8pmbqcfln91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoDvjMXQ9X3q1WQS2Fbv-Ni5t2dBkO8ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359263116422-ad2kggmc00fr92bb4k7fc8pmbqcfln91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
